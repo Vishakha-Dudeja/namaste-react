@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding: 5px 20px;
+}
+
+.search input {
+    border-radius: 15px;
+    width: 500px;
+    height: 30px;
+}
+
+.userIcon {
+    font-size: 28px;
+}

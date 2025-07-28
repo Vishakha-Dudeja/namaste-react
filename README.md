@@ -25,6 +25,10 @@ Add a Remote Repository (https://github.com/your-username/your-repo.git )
 ### `git push origin main`
 Push your code to repo main branch
 
+### `git checkout`
+
+### `git pull origin main`
+
 Npm commands => 
 
 ### `npm init`
